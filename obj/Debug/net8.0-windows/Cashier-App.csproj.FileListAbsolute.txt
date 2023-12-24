@@ -1,0 +1,14 @@
+E:\Software\101\Portofolio\Cashier-App\bin\Debug\net8.0-windows\Cashier-App.exe
+E:\Software\101\Portofolio\Cashier-App\bin\Debug\net8.0-windows\Cashier-App.deps.json
+E:\Software\101\Portofolio\Cashier-App\bin\Debug\net8.0-windows\Cashier-App.runtimeconfig.json
+E:\Software\101\Portofolio\Cashier-App\bin\Debug\net8.0-windows\Cashier-App.dll
+E:\Software\101\Portofolio\Cashier-App\bin\Debug\net8.0-windows\Cashier-App.pdb
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.AssemblyInfoInputs.cache
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.AssemblyInfo.cs
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.csproj.CoreCompileInputs.cache
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.dll
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\refint\Cashier-App.dll
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.pdb
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\Cashier-App.genruntimeconfig.cache
+E:\Software\101\Portofolio\Cashier-App\obj\Debug\net8.0-windows\ref\Cashier-App.dll
