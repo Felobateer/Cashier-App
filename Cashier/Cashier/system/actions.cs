@@ -9,7 +9,7 @@ namespace Cashier.system
 {
     internal class Actions
     {
-        public void addItem(Data item)
+        public void addItem(Product item)
         {
             item.Id = item.generateUniqueId();
             // Copy other properties

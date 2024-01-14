@@ -7,10 +7,12 @@ using System.Threading.Tasks;
 
 namespace Cashier.system
 {
-    internal class Data
+    internal class Product
     {
-        private static int lastId = 0;
-        public Data() {
+        private static int lastProductId = 0;
+
+        public Product()
+        {
             Id = GenerateUniqueId();
         }
 
@@ -21,12 +23,26 @@ namespace Cashier.system
         public int Quantity { get; set; }
 
         // If this is meant to be a connection string, it might be better placed in your configuration file.
-        static string myconnstrng = ConfigurationManager.ConnectionStrings[""].ConnectionString;
-    
+        private static string myconnstrng = ConfigurationManager.ConnectionStrings[""].ConnectionString;
+
         private int GenerateUniqueId()
         {
-            return ++lastId;
+            return ++lastProductId;
         }
+
+        internal int generateUniqueId()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    internal class Owner
+    {
+        public string BusinessName { get; set; }
+        public string Logo { get; set; }
+        public decimal TotalProfits { get; set; }
+
+        // Additional properties related to the owner can be added here.
     }
 
 
