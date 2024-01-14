@@ -45,5 +45,6 @@ namespace Cashier.system
         // Additional properties related to the owner can be added here.
     }
 
+    
 
 }
